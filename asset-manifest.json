@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Yadunanda/weatherApp-yadunandastatic/css/main.0b167bee.chunk.css",
-    "main.js": "/Yadunanda/weatherApp-yadunandastatic/js/main.08f974d8.chunk.js",
-    "main.js.map": "/Yadunanda/weatherApp-yadunandastatic/js/main.08f974d8.chunk.js.map",
-    "runtime-main.js": "/Yadunanda/weatherApp-yadunandastatic/js/runtime-main.f894ea04.js",
-    "runtime-main.js.map": "/Yadunanda/weatherApp-yadunandastatic/js/runtime-main.f894ea04.js.map",
-    "static/js/2.ed223cc8.chunk.js": "/Yadunanda/weatherApp-yadunandastatic/js/2.ed223cc8.chunk.js",
-    "static/js/2.ed223cc8.chunk.js.map": "/Yadunanda/weatherApp-yadunandastatic/js/2.ed223cc8.chunk.js.map",
-    "static/js/3.50d4bb90.chunk.js": "/Yadunanda/weatherApp-yadunandastatic/js/3.50d4bb90.chunk.js",
-    "static/js/3.50d4bb90.chunk.js.map": "/Yadunanda/weatherApp-yadunandastatic/js/3.50d4bb90.chunk.js.map",
-    "index.html": "/Yadunanda/weatherApp-yadunandaindex.html",
-    "static/css/main.0b167bee.chunk.css.map": "/Yadunanda/weatherApp-yadunandastatic/css/main.0b167bee.chunk.css.map",
-    "static/js/2.ed223cc8.chunk.js.LICENSE.txt": "/Yadunanda/weatherApp-yadunandastatic/js/2.ed223cc8.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Yadunanda/weatherApp-yadunandastatic/media/logo.6ce24c58.svg"
+    "main.css": "/weatherapp-deploy/static/css/main.ad5d4693.chunk.css",
+    "main.js": "/weatherapp-deploy/static/js/main.c9da6afa.chunk.js",
+    "main.js.map": "/weatherapp-deploy/static/js/main.c9da6afa.chunk.js.map",
+    "runtime-main.js": "/weatherapp-deploy/static/js/runtime-main.2e18aa5c.js",
+    "runtime-main.js.map": "/weatherapp-deploy/static/js/runtime-main.2e18aa5c.js.map",
+    "static/js/2.ed223cc8.chunk.js": "/weatherapp-deploy/static/js/2.ed223cc8.chunk.js",
+    "static/js/2.ed223cc8.chunk.js.map": "/weatherapp-deploy/static/js/2.ed223cc8.chunk.js.map",
+    "static/js/3.50d4bb90.chunk.js": "/weatherapp-deploy/static/js/3.50d4bb90.chunk.js",
+    "static/js/3.50d4bb90.chunk.js.map": "/weatherapp-deploy/static/js/3.50d4bb90.chunk.js.map",
+    "index.html": "/weatherapp-deploy/index.html",
+    "static/css/main.ad5d4693.chunk.css.map": "/weatherapp-deploy/static/css/main.ad5d4693.chunk.css.map",
+    "static/js/2.ed223cc8.chunk.js.LICENSE.txt": "/weatherapp-deploy/static/js/2.ed223cc8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/weatherapp-deploy/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f894ea04.js",
+    "static/js/runtime-main.2e18aa5c.js",
     "static/js/2.ed223cc8.chunk.js",
-    "static/css/main.0b167bee.chunk.css",
-    "static/js/main.08f974d8.chunk.js"
+    "static/css/main.ad5d4693.chunk.css",
+    "static/js/main.c9da6afa.chunk.js"
   ]
 }
